@@ -121,7 +121,10 @@ Result Demo
 </VAST>
 
 ```
+<<<<<<< Updated upstream
 
 ## Thanks
 + https://github.com/rs/vast
 + https://github.com/xsharp
+=======
+>>>>>>> Stashed changes

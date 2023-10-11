@@ -3,9 +3,9 @@
   <Ad id="602867">
   <Wrapper>
     <AdSystem>Acudeo Compatible</AdSystem>
-    <VASTAdTagURI>http://demo.tremormedia.com/proddev/vast/vast_inline_nonlinear2.xml</VASTAdTagURI>
-    <Error>http://myErrorURL/wrapper/error</Error>
-    <Impression>http://myTrackingURL/wrapper/impression</Impression>
+    <VASTAdTagURI><![CDATA[http://demo.tremormedia.com/proddev/vast/vast_inline_nonlinear2.xml]]></VASTAdTagURI>
+    <Error><![CDATA[http://myErrorURL/wrapper/error]]></Error>
+    <Impression><![CDATA[http://myTrackingURL/wrapper/impression]]></Impression>
 	<Creatives>
 		<Creative adId="602867">
 			<Linear>
@@ -16,11 +16,11 @@
 		<Creative adId="602867-NonLinearTracking">
 			<NonLinearAds>
 				<TrackingEvents>
-					<Tracking event="creativeView">http://myTrackingURL/wrapper/nonlinear/creativeView/creativeView</Tracking>
-					<Tracking event="expand">http://myTrackingURL/wrapper/nonlinear/creativeView/expand</Tracking>
-					<Tracking event="collapse">http://myTrackingURL/wrapper/nonlinear/creativeView/collapse</Tracking>
-					<Tracking event="acceptInvitation">http://myTrackingURL/wrapper/nonlinear/creativeView/acceptInvitation</Tracking>
-					<Tracking event="close">http://myTrackingURL/wrapper/nonlinear/creativeView/close</Tracking>
+					<Tracking event="creativeView"><![CDATA[http://myTrackingURL/wrapper/nonlinear/creativeView/creativeView]]></Tracking>
+					<Tracking event="expand"><![CDATA[http://myTrackingURL/wrapper/nonlinear/creativeView/expand]]></Tracking>
+					<Tracking event="collapse"><![CDATA[http://myTrackingURL/wrapper/nonlinear/creativeView/collapse]]></Tracking>
+					<Tracking event="acceptInvitation"><![CDATA[http://myTrackingURL/wrapper/nonlinear/creativeView/acceptInvitation]]></Tracking>
+					<Tracking event="close"><![CDATA[http://myTrackingURL/wrapper/nonlinear/creativeView/close]]></Tracking>
 				</TrackingEvents>
 			</NonLinearAds>
 		</Creative>
