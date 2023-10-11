@@ -1,5 +1,7 @@
 # Vast
 
+VAST 4.2 : https://github.com/jeffwalter-rum/vast/tree/4.2
+
 XML/Json
 
 :star: VAST Ad generator and parser library on GoLang.
@@ -21,7 +23,7 @@ XML/Json
 
 ## Installation
 
-`go get -u github.com/haxqer/vast`
+`go get -u github.com/jeffwalter-rum/vast`
 
 
 
@@ -33,7 +35,7 @@ package main
 import (
 	"encoding/xml"
 	"fmt"
-	. "github.com/haxqer/vast"
+	. "github.com/jeffwalter-rum/vast"
 	"time"
 )
 

@@ -1,7 +1,7 @@
 language: go
 sudo: false
 
-go_import_path: github.com/haxqer/vast
+go_import_path: github.com/jeffwalter-rum/vast
 env:
   global:
     - TEST_TIMEOUT_SCALE=10
